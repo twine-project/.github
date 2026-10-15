@@ -1,11 +1,8 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/twine-project/.github/main/profile/assets/profile/assets/Final%20logos%20TWINE_rgb_Main%20horizontal%20logo%20Twine-01.svg" alt="TWINE" width="120">
+  <img src="https://raw.githubusercontent.com/twine-project/.github/main/profile/assets/Final%20logos%20TWINE_rgb_Main%20horizontal%20logo%20Twine-01.svg" alt="TWINE – Twin-based Web Interoperable Network for Engagement" width="380">
 </p>
 
-<h1 align="center">TWINE</h1>
-
 <p align="center">
-  <strong>Twin-based Web Interoperable Network for Engagement</strong><br>
   Open, federated and human-centric Web 4.0 and Virtual Worlds for European cities
 </p>
 
