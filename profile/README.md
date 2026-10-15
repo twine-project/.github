@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/twine-project/.github/main/profile/assets/profile/assets/Final+logos+TWINE_rgb_Main+horizontal+logo+Twine-01.svg" alt="TWINE" width="120">
+  <img src="https://raw.githubusercontent.com/twine-project/.github/main/profile/assets/profile/assets/Final logos TWINE_rgb_Main horizontal logo Twine-01.svg" alt="TWINE" width="120">
 </p>
 
 <h1 align="center">TWINE</h1>
